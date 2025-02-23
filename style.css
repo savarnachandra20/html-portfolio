@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(25, 159, 169);
+}
+h2 {
+    color:rgb(91, 150, 66)
+} 
+.outer {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.inner {
+    width: 50%;
+    height: 50%;
+    background-color: rgb(67, 17, 149);
+}
+.meow{
+    background: url("./Savarna\ photo.jpg");
+}
